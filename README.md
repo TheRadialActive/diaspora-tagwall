@@ -7,5 +7,5 @@ Dependencies:
 
 Usage:
 * Enter the root dir of the repo
-* `python main.py slides.md`
+* `python main.py 'tag'`
 * `flaskreveal start slides.md`
