@@ -7,6 +7,7 @@ import sys, os
 from datetime import datetime
 import CommonMark
 import re
+import scss
 
 # install
 # pip install requests
@@ -22,7 +23,7 @@ else:
     sys.exit("ERROR: Please enter a valid diaspora* tag in quotation marks.")
 
 try:
-    print("Get post link on author's pod")
+    print("Get posts of tag " + tag)
     url_tags = "https://pod.geraspora.de/tags/" + tag + ".json"
     tag_request = requests.get(url_tags, verify=True)
 
@@ -34,9 +35,12 @@ try:
         post_author = "[![](" + post['author']['avatar']['small'] + ")"  + post['author']['name'] + " (" + post['author']['diaspora_id'] + ")](/people/" + post['author']['guid'] + ")"
         post_text = re.compile('\#(\w)').sub(r'\\#\1', post['text'])
         post_date = post['created_at']
+        post_pics = ""
+        for photo in post['photos']:
+            post_pics = post_pics + "![](" + photo['sizes']['large'] + ")"
         section_end = '</script></section>'
         
-        posts = posts + section_start + post_author + "\n\n" + post_text + "\n\n **Posted at: " + post_date + "** \n\n\n *Last Update of tag lists at " + execution_date + "*" + section_end
+        posts = posts + section_start + post_author + "\n\n" + post_text + "\n\n **Posted at: " + post_date + "** \n\n\n *Last Update of tag lists at " + execution_date + "* \n" + post_pics + " " + section_end
     
     slide_file = open("slides.md", "w")
     slide_file.write(posts)

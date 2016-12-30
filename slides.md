@@ -1,133 +1,149 @@
-<section data-markdown><script type="text/template">[![](https://pod.geraspora.de/uploads/images/thumb_small_b333e7f6f7224c39f9ae.jpg)Krutor alias Simon (krutor@pod.geraspora.de)](/people/f3697a54701f811a)
+<section data-markdown><script type="text/template">[![](https://pod.geraspora.de/uploads/images/thumb_small_c74cd61750daac1a672c.jpg)toxicity (toxicity@pod.geraspora.de)](/people/4ce6c8908052013421d04860008dbc6c)
 
-\#33c3 tomorrow, day4, \#jolla and \#sailfish community meeting 12-12.30 in C.2  
-\#friendlyreminder
+\#33c3 Nachrichten nun mit Hashtag am Anfang senden, dann kommen sie auch bei Twitter nicht abgeschnitten an.
 
- **Posted at: 2016-12-29T21:57:53.284Z** 
-
-
- *Last Update of tag lists at 29.12.2016 23:05*</script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/uploads/images/thumb_small_c74cd61750daac1a672c.jpg)toxicity (toxicity@pod.geraspora.de)](/people/4ce6c8908052013421d04860008dbc6c)
-
-\#33c3 :D
-
- **Posted at: 2016-12-29T21:48:07.496Z** 
+ **Posted at: 2016-12-30T14:10:33.002Z** 
 
 
- *Last Update of tag lists at 29.12.2016 23:05*</script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/uploads/images/thumb_small_c74cd61750daac1a672c.jpg)toxicity (toxicity@pod.geraspora.de)](/people/4ce6c8908052013421d04860008dbc6c)
+ *Last Update of tag lists at 30.12.2016 15:22* 
+ </script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/63afc8820cd0fa607f2467bdd601c8f2a722d6ce/68747470733a2f2f662e62656c75672e64652f70686f746f2f637573746f6d2f35302f31302e6a7067)Majestyx (((redRat))) (majestyx@f.belug.de)](/people/b41c79036c0f363e)
 
-Erste Camera Engel Session erledigt *puh* \#33c3
+\#33c3 \#hall1 wenn der \#filter der 'bewahrer' der \#demokratie sein soll.....  
+\#herrschaft fliest in \#technik und irgendwann wird die technik die herrschaft sein \#marcuse ....  
+"Good Night and Good Luck" :-\ \#33c3
 
- **Posted at: 2016-12-29T21:11:35.852Z** 
-
-
- *Last Update of tag lists at 29.12.2016 23:05*</script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/5e3e50b4cdcb0e7131d49ea3c7bb2bd8f6906347/68747470733a2f2f736f6369616c2e796c2e6d732f70686f746f2f637573746f6d2f35302f372e6a7067)utzer (utzer@social.yl.ms)](/people/409b3d8b46f6331b)
-
-Tor relay operator meeting at \#33C3 now in C2.
-
- **Posted at: 2016-12-29T20:57:29.000Z** 
+ **Posted at: 2016-12-30T14:09:46.000Z** 
 
 
- *Last Update of tag lists at 29.12.2016 23:05*</script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/69c292260d670b53fa7769b48efff3f744fe6259/68747470733a2f2f736f6369616c2e796c2e6d732f70686f746f2f637573746f6d2f35302f322e6a7067)Piratenpartei Rhein-Erft (pp-rek@social.yl.ms)](/people/72628ec533cdec38)
+ *Last Update of tag lists at 30.12.2016 15:22* 
+ </script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/28489f153a4b15e05c98cc4459397e1c6e963b29/68747470733a2f2f74697070656e74617070656e2e64652f75706c6f6164732f696d616765732f7468756d625f736d616c6c5f63633838363265636165393335623932343332322e6a7067)Nico H (ex@tippentappen.de)](/people/3862f220c46f013306f2525400118482)
 
-Ihr wisst gar nicht was der \#33C3 ist? Hier wird Euch geholfen.  
-[Reiseführer ins Neuland - Deus ex Machina](http://blogs.faz.net/deus/2016/12/29/reisefuehrer-ins-neuland-3988/)
+Sonne! \#33c3
 
- **Posted at: 2016-12-29T20:43:28.000Z** 
-
-
- *Last Update of tag lists at 29.12.2016 23:05*</script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/5e3e50b4cdcb0e7131d49ea3c7bb2bd8f6906347/68747470733a2f2f736f6369616c2e796c2e6d732f70686f746f2f637573746f6d2f35302f372e6a7067)utzer (utzer@social.yl.ms)](/people/409b3d8b46f6331b)
-
-[https://twitter.com/Senficon/status/814103223573315584](https://twitter.com/Senficon/status/814103223573315584) \#33c3 \#copyright
-
- **Posted at: 2016-12-29T20:20:23.000Z** 
+ **Posted at: 2016-12-30T14:04:26.000Z** 
 
 
- *Last Update of tag lists at 29.12.2016 23:05*</script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/d6fd8c770da1a3be2072ea09a46c8740a621503e/68747470733a2f2f7069726174692e63612f70686f746f2f637573746f6d2f35302f312e6a7067)Michael Vogel (heluecht@pirati.ca)](/people/0704b08f5c777566)
+ *Last Update of tag lists at 30.12.2016 15:22* 
+![](https://pod.geraspora.de/camo/490b3a2cce29406528a128f164920cdc4c342d06/68747470733a2f2f74697070656e74617070656e2e64652f75706c6f6164732f696d616765732f7363616c65645f66756c6c5f32333137383835653632333564396338656532342e6a7067) </script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/63afc8820cd0fa607f2467bdd601c8f2a722d6ce/68747470733a2f2f662e62656c75672e64652f70686f746f2f637573746f6d2f35302f31302e6a7067)Majestyx (((redRat))) (majestyx@f.belug.de)](/people/b41c79036c0f363e)
 
-Kunst \#33c3  
-  
-[![Image/photo](https://pod.geraspora.de/camo/dbe9870b4b49f9009dbbdfd36a4117e7f479d63f/68747470733a2f2f7069726174692e63612f70686f746f2f34363034386363623838333639353934306564383439663966363034353032652d312e6a7067)](https://pirati.ca/photos/heluecht/image/46048ccb883695940ed849f9f604502e)
+\#33c3 \#hall1 mhm, dann muss ich also'n \#einreiseantrag stellen wenn ausem \#RZ komme?! o.O. ansonsten 'illegaler grenzübertritt' :-) \#33c3
 
- **Posted at: 2016-12-29T20:19:41.000Z** 
-
-
- *Last Update of tag lists at 29.12.2016 23:05*</script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/e9171eb85524efa140b92de96e5c8e0cc50799dd/68747470733a2f2f7275687273706f72612e64652f75706c6f6164732f696d616765732f7468756d625f736d616c6c5f38623232626536373033343934306563376664632e6a7067)etwas vom Sofa (etwas@ruhrspora.de)](/people/29e66e3e0639b3d9)
-
-## \#Decke mit \#Röhren
-
-\#33c3 \#2017 \#cch
-
- **Posted at: 2016-12-29T19:26:27.000Z** 
+ **Posted at: 2016-12-30T13:53:00.000Z** 
 
 
- *Last Update of tag lists at 29.12.2016 23:05*</script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/63afc8820cd0fa607f2467bdd601c8f2a722d6ce/68747470733a2f2f662e62656c75672e64652f70686f746f2f637573746f6d2f35302f31302e6a7067)Majestyx (((redRat))) (majestyx@f.belug.de)](/people/b41c79036c0f363e)
+ *Last Update of tag lists at 30.12.2016 15:22* 
+ </script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/e6d1ef7dbf8814a7a34a4aad3d84e98557d4c5b2/68747470733a2f2f736f6369616c2e6469656b657273686f66662e64652f70686f746f2f637573746f6d2f35302f322e6a7067)Tobias (tobias@social.diekershoff.de)](/people/f3ad7b1c115759259c16275554018953)
 
-**♲ p1ng0ut@micro.netzspielplatz.de:**  
-> \#33c3, In 10 min. in Saal G: Berechnete Welt - Unsere Daten, die Zukunft und die zerstörte Demokratie  
-> [Schedule 33. Chaos Communication Congress](https://fahrplan.events.ccc.de/congress/2016/Fahrplan/events/7899.html)
+**♲ mxmehl@quitter.no:**  
+> ♻ @[fsfe](https://quitter.no/user/10403): <3 from your @[fsfe](https://quitter.no/user/10403) assembly to everyone who made \#33c3 happen: angels, speakers, assemblies, participants.. great fun to be part of it! @[ccc](https://quitter.se/ccc)  
+> ![Image/photo](https://pod.geraspora.de/camo/11b4e6b7ae3d2a4edf07101f8dd8698fca2fe9bd/68747470733a2f2f736f6369616c2e6469656b657273686f66662e64652f70726f78792f64352f6148523063484d364c79397a5a584a324c6d316c6147777562586776644864706448526c6369397761574d764d7a646c4e446b7a4c6d70775a773d3d2e6a7067)
 
   
   
-[[l]](https://micro.netzspielplatz.de/notice/2590020)
+[[l]](https://quitter.no/notice/2931391)
 
- **Posted at: 2016-12-29T19:25:38.000Z** 
-
-
- *Last Update of tag lists at 29.12.2016 23:05*</script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/09d3ff72413a396c98a1e1c52194b3b4927e2776/68747470733a2f2f706f642e67336c2e6f72672f75706c6f6164732f696d616765732f7468756d625f736d616c6c5f31343365623062633864353231623464633635392e6a706567)François Revol (mmu_man@pod.g3l.org)](/people/5a570cb048e001329c654c72b931b276)
-
-Je viens de proposer ça sur l'[infobeamer](https://33c3.infobeamer.com/) du \#33C3 (la + grosse conf de hackers en Europe) ;-)
-\#DUniter \#MonnaieLibre
-
- **Posted at: 2016-12-29T19:07:20.000Z** 
+ **Posted at: 2016-12-30T13:50:51.000Z** 
 
 
- *Last Update of tag lists at 29.12.2016 23:05*</script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/63afc8820cd0fa607f2467bdd601c8f2a722d6ce/68747470733a2f2f662e62656c75672e64652f70686f746f2f637573746f6d2f35302f31302e6a7067)Majestyx (((redRat))) (majestyx@f.belug.de)](/people/b41c79036c0f363e)
+ *Last Update of tag lists at 30.12.2016 15:22* 
+ </script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/63afc8820cd0fa607f2467bdd601c8f2a722d6ce/68747470733a2f2f662e62656c75672e64652f70686f746f2f637573746f6d2f35302f31302e6a7067)Majestyx (((redRat))) (majestyx@f.belug.de)](/people/b41c79036c0f363e)
 
-\#33c3 <3 \#hall1 Courage Love  
-[https://freelauri.com/](https://freelauri.com/) \#33c3
+\#33c3 \#hall1 'richterbeschluss' ... da war doch mal was auf nem anderen/älteren congress (noch in berlin) wo der richter sagte: abnicken is ne unterschrift und ablehnung erfordert viel papier... und die 'erstickten' schon damals in anfragen.... \#richter sind halt auch erst mal \#menschen ..... \#33c3
 
- **Posted at: 2016-12-29T18:12:04.000Z** 
-
-
- *Last Update of tag lists at 29.12.2016 23:05*</script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/63afc8820cd0fa607f2467bdd601c8f2a722d6ce/68747470733a2f2f662e62656c75672e64652f70686f746f2f637573746f6d2f35302f31302e6a7067)Majestyx (((redRat))) (majestyx@f.belug.de)](/people/b41c79036c0f363e)
-
-also die \#berlin er schmiere hat \#mysql (proudly make by \#tarend) shoutdown this shit! \#acab !antifa scheiss auf die \#NSU bodyguards  
-\#33C3: Rechtsexperte rät zur Einsicht in Polizeidatenbanken  
-[33C3: Rechtsexperte rät zur Einsicht in Polizeidatenbanken](https://www.heise.de/newsticker/meldung/33C3-Rechtsexperte-raet-zur-Einsicht-in-Polizeidatenbanken-3582900.html)
-
- **Posted at: 2016-12-29T17:58:18.000Z** 
+ **Posted at: 2016-12-30T13:46:25.000Z** 
 
 
- *Last Update of tag lists at 29.12.2016 23:05*</script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/uploads/images/thumb_small_48282a8189640e6db39c.jpg)Breitseite (breitseite@pod.geraspora.de)](/people/aaca08ea0898e4e4)
+ *Last Update of tag lists at 30.12.2016 15:22* 
+ </script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/5e3e50b4cdcb0e7131d49ea3c7bb2bd8f6906347/68747470733a2f2f736f6369616c2e796c2e6d732f70686f746f2f637573746f6d2f35302f372e6a7067)utzer (utzer@social.yl.ms)](/people/409b3d8b46f6331b)
 
-### [David Kriesel: SpiegelMining – Reverse Engineering von Spiegel-Online [33c3]](https://www.youtube.com/watch?v=dkFN_e9lfis)
-Quelle: [CCCdeVideos](https://www.youtube.com/channel/UC1Jnp8rErjUAygOfRMhP1Yg)
+Wäre je toll wenn da mal jemand das Mikrofon des Redners in Saal 1 richten kann, der Bart knistert so laut. \#33C3
 
-
-\#spon \#medien \#netzpolitik \#datamining \#bigdata \#politik \#surveillance \#33c3 \#ccc \#presse
-
- **Posted at: 2016-12-29T17:53:25.189Z** 
+ **Posted at: 2016-12-30T13:46:07.000Z** 
 
 
- *Last Update of tag lists at 29.12.2016 23:05*</script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/97d816581a87df69643925f301f9f58995e3ebac/68747470733a2f2f6e657264706f6c2e63682f75706c6f6164732f696d616765732f7468756d625f736d616c6c5f38613162333338386132383634623430306563652e706e67)mia@nerdpol.ch (mia@nerdpol.ch)](/people/6bcde5f0646f0134844e52540061b601)
+ *Last Update of tag lists at 30.12.2016 15:22* 
+ </script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/63afc8820cd0fa607f2467bdd601c8f2a722d6ce/68747470733a2f2f662e62656c75672e64652f70686f746f2f637573746f6d2f35302f31302e6a7067)Majestyx (((redRat))) (majestyx@f.belug.de)](/people/b41c79036c0f363e)
 
-### Humor wirkt sich auf unsere Variablennamen aus
+\#33c3 "hoite ist ein schwarzer tag" ..... \#hall1 :-[ \#33c3
 
-\#33c3 \#thing \#ex_date
-
-
- **Posted at: 2016-12-29T17:46:04.000Z** 
+ **Posted at: 2016-12-30T13:41:49.000Z** 
 
 
- *Last Update of tag lists at 29.12.2016 23:05*</script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/d22e16cb73b787794e0d44d929909528ea9858ad/68747470733a2f2f64696173706f72612e6b6f736562616d73652e636f6d2f75706c6f6164732f696d616765732f7468756d625f736d616c6c5f62613131656465323532343433623866396235352e706e67)heise online Newsticker (inoffiziell) (heise_news@diaspora.kosebamse.com)](/people/0f52b480a3660133516d001c4202e28a)
+ *Last Update of tag lists at 30.12.2016 15:22* 
+ </script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/63afc8820cd0fa607f2467bdd601c8f2a722d6ce/68747470733a2f2f662e62656c75672e64652f70686f746f2f637573746f6d2f35302f31302e6a7067)Majestyx (((redRat))) (majestyx@f.belug.de)](/people/b41c79036c0f363e)
 
-### [33C3: Rechtsexperte rät zur Einsicht in Polizeidatenbanken](https://www.heise.de/newsticker/meldung/33C3-Rechtsexperte-raet-zur-Einsicht-in-Polizeidatenbanken-3582900.html?wt_mc=rss.ho.beitrag.atom)
+\#33c3 !anarchy and <3 in hall C.2 ...... \#33c3
 
-
-
-\#33c3 \#einsicht \#polizeidatenbanken \#rechtsexperte \#zur
-
- **Posted at: 2016-12-29T17:45:03.000Z** 
+ **Posted at: 2016-12-30T13:31:04.000Z** 
 
 
- *Last Update of tag lists at 29.12.2016 23:05*</script></section>
+ *Last Update of tag lists at 30.12.2016 15:22* 
+ </script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/uploads/images/thumb_small_c74cd61750daac1a672c.jpg)toxicity (toxicity@pod.geraspora.de)](/people/4ce6c8908052013421d04860008dbc6c)
+
+Zweite Kameraschicht beendet, puh, Message an Talker: bitte bewegt euch weniger, die Kameramenschen sind euch dafür dankbar. Wenn ihr euch bewegt ist es schwer euch zu folgen. \#33c3
+
+ **Posted at: 2016-12-30T13:25:32.266Z** 
+
+
+ *Last Update of tag lists at 30.12.2016 15:22* 
+ </script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/d6fd8c770da1a3be2072ea09a46c8740a621503e/68747470733a2f2f7069726174692e63612f70686f746f2f637573746f6d2f35302f312e6a7067)Michael Vogel (heluecht@pirati.ca)](/people/0704b08f5c777566)
+
+Geordi La Forge sitzt neben mir, glaube ich. \#33c3  
+  
+[![Image/photo](https://pod.geraspora.de/camo/d45306824974220070b1c9d4e980903b380faded/68747470733a2f2f7069726174692e63612f70686f746f2f36386435626532356465356264326462333363353430623163656230303935322d312e6a7067)](https://pirati.ca/photos/heluecht/image/68d5be25de5bd2db33c540b1ceb00952)
+
+ **Posted at: 2016-12-30T13:00:50.000Z** 
+
+
+ *Last Update of tag lists at 30.12.2016 15:22* 
+ </script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/b9692a707c5e51864e875423fc9b98faa1b02aa4/68747470733a2f2f64696173706f72612e6b6f736562616d73652e636f6d2f75706c6f6164732f696d616765732f7468756d625f736d616c6c5f64316364666264656262373235353334646632322e706e67)heise Security (inoffiziell) (heise_security@diaspora.kosebamse.com)](/people/fe6030d0a3770133516f001c4202e28a)
+
+### [33c3: Wissenschaftler fordern Maßnahmen für Datenschutz](https://www.heise.de/security/meldung/33c3-Wissenschaftler-fordern-Massnahmen-fuer-Datenschutz-3583079.html?wt_mc=rss.security.beitrag.atom)
+
+
+
+\#33c3 \#datenschutz \#fordern \#maßnahmen \#wissenschaftler
+
+ **Posted at: 2016-12-30T13:00:11.000Z** 
+
+
+ *Last Update of tag lists at 30.12.2016 15:22* 
+ </script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/d22e16cb73b787794e0d44d929909528ea9858ad/68747470733a2f2f64696173706f72612e6b6f736562616d73652e636f6d2f75706c6f6164732f696d616765732f7468756d625f736d616c6c5f62613131656465323532343433623866396235352e706e67)heise online Newsticker (inoffiziell) (heise_news@diaspora.kosebamse.com)](/people/0f52b480a3660133516d001c4202e28a)
+
+### [33C3: Europas Raumfahrtchef will Hacker auf den Mond schießen](https://www.heise.de/newsticker/meldung/33C3-Europas-Raumfahrtchef-will-Hacker-auf-den-Mond-schiessen-3583050.html?wt_mc=rss.ho.beitrag.atom)
+
+
+
+\#33c3 \#auf \#den \#europas \#hacker \#mond \#raumfahrtchef \#schießen \#will
+
+ **Posted at: 2016-12-30T13:00:05.000Z** 
+
+
+ *Last Update of tag lists at 30.12.2016 15:22* 
+ </script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/d22e16cb73b787794e0d44d929909528ea9858ad/68747470733a2f2f64696173706f72612e6b6f736562616d73652e636f6d2f75706c6f6164732f696d616765732f7468756d625f736d616c6c5f62613131656465323532343433623866396235352e706e67)heise online Newsticker (inoffiziell) (heise_news@diaspora.kosebamse.com)](/people/0f52b480a3660133516d001c4202e28a)
+
+### [33c3: Wissenschaftler fordern Maßnahmen für Datenschutz](https://www.heise.de/newsticker/meldung/33c3-Wissenschaftler-fordern-Massnahmen-fuer-Datenschutz-3583079.html?wt_mc=rss.ho.beitrag.atom)
+
+
+
+\#33c3 \#datenschutz \#fordern \#maßnahmen \#wissenschaftler
+
+ **Posted at: 2016-12-30T13:00:02.000Z** 
+
+
+ *Last Update of tag lists at 30.12.2016 15:22* 
+ </script></section><section data-markdown><script type="text/template">[![](https://pod.geraspora.de/camo/89c22063578ee543ee3947385fa404dfe8e50716/68747470733a2f2f6e657264706f6c2e63682f75706c6f6164732f696d616765732f7468756d625f736d616c6c5f31373636613934353638306665326335353766632e6a7067)Miruin (miruin@nerdpol.ch)](/people/f7f06a9012fb0134ab6652540061b601)
+
+\#Diaspora 'sche Lichtspiele im Restaurant in \#Hamburg
+
+... mit Dank an @{Illuminatus Leuchtemensch ; kptnpez@pod.geraspora.de} für viele viele bunte Liiichter :)
+
+... und mit Dank an @{CCCammy ; csammy@nerdpol.ch} fürs Spielen :D
+
+\#33c3 \#assembly \#futtern
+
+ **Posted at: 2016-12-30T12:59:46.000Z** 
+
+
+ *Last Update of tag lists at 30.12.2016 15:22* 
+![](https://pod.geraspora.de/camo/9368f8b61193151967547b5f264d11e62c5818c2/68747470733a2f2f6e657264706f6c2e63682f75706c6f6164732f696d616765732f7363616c65645f66756c6c5f39303265623866616137313934326438373338622e6a7067) </script></section>
