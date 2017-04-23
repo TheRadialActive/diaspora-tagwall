@@ -8,7 +8,9 @@ Dependencies:
 
 Usage:
 * Enter the root dir of the repo
+* `pip install -r requirements.txt`
 * `python main.py 'tag'`
+* install flask-reveal: https://github.com/humrochagf/flask-reveal
 * `flaskreveal start slides.md`
 
 Todo:
